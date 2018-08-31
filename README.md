@@ -2,20 +2,20 @@
 
 Code for Data Structure in C++ using STL.
 
-Topics to be covered:
+#Topics to be covered:
 
-Array
-Linked List
-Stack
-Queue
-Binary Tree
-Binary Search Tree
-Heap
-Hashing
-Graph
-Matrix
-Misc
-Advanced Data Structure
+Array  
+Linked List  
+Stack  
+Queue  
+Binary Tree  
+Binary Search Tree  
+Heap  
+Hashing  
+Graph  
+Matrix  
+Misc  
+Advanced Data Structure  
 
 How to Contribute:
 
