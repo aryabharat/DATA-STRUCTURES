@@ -19,7 +19,7 @@ Advanced Data Structure
 
 # Give it a read
 - [ Begin with Tries](https://medium.com/basecs/trying-to-understand-tries-3ec6bede0014)
-- [C++ Essiential](https://www.youtube.com/watch?v=g-1Cn3ccwXY&list=PLfBJlB6T2eOvyt21CIX_PMmhOgWHiFVab)
+- [C++ Essential](https://www.youtube.com/watch?v=g-1Cn3ccwXY&list=PLfBJlB6T2eOvyt21CIX_PMmhOgWHiFVab)
 
 **How to Contribute:**
 
