@@ -2,7 +2,7 @@
 
 ## Code for Data Structure in C++ using STL.
 
-** Topics to be covered:**
+**Topics to be covered: **
 
 Array  
 Linked List  
